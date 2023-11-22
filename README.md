@@ -1,4 +1,5 @@
-# 🐥 Clancy Long
+![image](https://github.com/clancycooper/clancycooper/assets/141694194/3c074016-c080-4e80-8553-608e92291bbf)
+
 
 ## 📖 About Me
 My name is Clancy (he/him) and I am 29 years old and reside in Kernersville, NC.
