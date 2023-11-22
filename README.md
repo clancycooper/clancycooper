@@ -47,3 +47,6 @@ Thanks for stopping by and make sure to follow for more updates!
 #### • LinkedIn: https://www.linkedin.com/in/clancylong/
 #### • CodeWars: https://www.codewars.com/users/clancylong
 #### • Instagram: @clancy.png
+
+![image](https://github.com/clancycooper/clancycooper/assets/141694194/f63411d5-4505-46c6-b879-3774bcdfe640)
+
