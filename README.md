@@ -1,9 +1,10 @@
-![image](https://github.com/clancycooper/clancycooper/assets/141694194/3c074016-c080-4e80-8553-608e92291bbf)
+![image](https://github.com/clancycooper/clancycooper/assets/141694194/5d58dc98-ba49-4722-98c8-1c7d4ff00dc2)
 
-<img width="820" alt="image" src="https://github.com/clancycooper/clancycooper/assets/141694194/f5fd25ae-9398-4bef-8111-97ddf4b5a0ee">
+![image](https://github.com/clancycooper/clancycooper/assets/141694194/04c3dfb8-7a57-4e50-8356-bdc2d8b94cbd)
 
 
-#### Hi, I'm Clancy! A 29 year old App Dev student from Kernersville, NC. I am currently training full time to become a software developer.   
+#### Hi, I'm Clancy! A 29 year old App Dev student from Kernersville, NC.  
+I am currently training full time to become a software developer.   
 My github is a great place for: 
 - Checking out my PluralSight repo to see what I'm currently studying
 - Trying to beat my highscore on Codewars
@@ -13,7 +14,7 @@ My github is a great place for:
 Thanks for stopping by and make sure to follow for more updates!
 
 
-<img width="820" alt="image" src="https://github.com/clancycooper/clancycooper/assets/141694194/71907f59-4e34-4c8c-9ee2-a4df15df3009">
+ ![image](https://github.com/clancycooper/clancycooper/assets/141694194/043ba52a-7818-487e-8e5b-b5ab83b36564)
 
 
 #### • BoggleBros.com | Web Dev | 2019-2023
@@ -21,7 +22,7 @@ Thanks for stopping by and make sure to follow for more updates!
 #### • App Dev Trainee @ Year Up | Backend Java | 2023
 
 
-<img width="820" alt="image" src="https://github.com/clancycooper/clancycooper/assets/141694194/6753305c-d170-4443-80a3-c384992e5b0e">
+![image](https://github.com/clancycooper/clancycooper/assets/141694194/6935893c-1a2c-4c96-a019-ec76e24e3751)
 
 
 #### • Git Bash
@@ -32,14 +33,14 @@ Thanks for stopping by and make sure to follow for more updates!
 #### • Agile
 
 
-<img width="820" alt="image" src="https://github.com/clancycooper/clancycooper/assets/141694194/a9938f5d-44b1-40bd-92da-589dad472978">
+![image](https://github.com/clancycooper/clancycooper/assets/141694194/0383f7b4-93d2-4652-9c44-c5ab296298ca)
 
 
 #### • Southern New Hampshire University | BS in Computer Science | 2023-2027
 #### • Year Up | App Dev Trainee | 2023-2024
 
   
-<img width="820" alt="image" src="https://github.com/clancycooper/clancycooper/assets/141694194/78341d47-5985-498a-afe2-29acd6f7f006">
+![image](https://github.com/clancycooper/clancycooper/assets/141694194/adbad8c1-2089-4c80-8fa0-d2c82b910b2d)
 
 
 #### • Email: clancylong94@gmail.com
