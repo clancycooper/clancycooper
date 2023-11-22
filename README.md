@@ -32,6 +32,7 @@ Thanks for stopping by and make sure to follow for more updates!
 #### • The UPS Store | Logistics Software | 2023
 #### • App Dev Trainee @ Year Up | Backend Java | 2023
 
+![image](https://github.com/clancycooper/clancycooper/assets/141694194/c3be5fc2-47e4-4edb-b73d-f02d7589a732)
 
 
 ![image](https://github.com/clancycooper/clancycooper/assets/141694194/6935893c-1a2c-4c96-a019-ec76e24e3751)
@@ -47,6 +48,7 @@ Thanks for stopping by and make sure to follow for more updates!
 #### • OOP
 #### • Agile
 
+![image](https://github.com/clancycooper/clancycooper/assets/141694194/ed8d41ef-ee09-4255-907d-8eff8f2ff21f)
 
 
 
@@ -55,10 +57,11 @@ Thanks for stopping by and make sure to follow for more updates!
 ![image](https://github.com/clancycooper/clancycooper/assets/141694194/6deaf5f6-c056-4e21-b03c-8e2289001915)
 
 
-
-
 #### • Southern New Hampshire University | BS in Computer Science | 2023-2027
 #### • Year Up | App Dev Trainee | 2023-2024
+
+![image](https://github.com/clancycooper/clancycooper/assets/141694194/a09752db-7f5e-484b-9a5b-609c22990d81)
+
 
   
 ![image](https://github.com/clancycooper/clancycooper/assets/141694194/adbad8c1-2089-4c80-8fa0-d2c82b910b2d)
