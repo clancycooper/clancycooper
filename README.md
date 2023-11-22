@@ -13,6 +13,9 @@ My github is a great place for:
 
 Thanks for stopping by and make sure to follow for more updates!
 
+![image](https://github.com/clancycooper/clancycooper/assets/141694194/a0f62df9-8564-4cf6-a215-ceb96cb6d97b)
+
+
 
  ![image](https://github.com/clancycooper/clancycooper/assets/141694194/043ba52a-7818-487e-8e5b-b5ab83b36564)
 
