@@ -37,12 +37,10 @@ Thanks for stopping by and make sure to follow for more updates!
 ![image](https://github.com/clancycooper/clancycooper/assets/141694194/a92b6d10-190b-4c1b-b77d-68e56c7a38c3)
 
 
-#### • Git Bash
-#### • Java
-#### • SQL
-#### • JUnit
-#### • OOP
-#### • Agile
+#### Git Bash | Version Control | Github 
+#### Java | JUnit Testing | OOP (Object Oriented Programming
+#### SQL | Agile | Figma
+#### Microsoft Office | Adobe Suite | Canva
 
 ![image](https://github.com/clancycooper/clancycooper/assets/141694194/ed8d41ef-ee09-4255-907d-8eff8f2ff21f)
 
