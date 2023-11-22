@@ -4,15 +4,7 @@
 
 ![image](https://github.com/clancycooper/clancycooper/assets/141694194/04c3dfb8-7a57-4e50-8356-bdc2d8b94cbd)
 
-!![image](https://github.com/clancycooper/clancycooper/assets/141694194/a8a2a131-955c-4ee2-8619-404f249e5d8f)
-
-
-
-
-
-
-
-
+![image](https://github.com/clancycooper/clancycooper/assets/141694194/a8a2a131-955c-4ee2-8619-404f249e5d8f)
 
 
 #### Hi, I'm Clancy! A 29 year old App Dev student from Kernersville, NC.  
